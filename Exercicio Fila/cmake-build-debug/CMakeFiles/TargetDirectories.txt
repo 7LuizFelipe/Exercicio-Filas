@@ -1,0 +1,3 @@
+C:/Users/luizf/CLionProjects/Pilha e Fila/cmake-build-debug/CMakeFiles/Pilha_e_Fila.dir
+C:/Users/luizf/CLionProjects/Pilha e Fila/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luizf/CLionProjects/Pilha e Fila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
